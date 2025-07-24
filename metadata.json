@@ -1,0 +1,6 @@
+{
+  "name": "PSYCH BINGO",
+  "description": "A classic Bingo game where you face off against a computer opponent. Strategically fill your 5x5 board, then take turns marking numbers. The first player to complete five lines—horizontally, vertically, or diagonally—and spell BINGO wins the ultimate showdown.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
